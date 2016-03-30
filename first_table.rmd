@@ -1,3 +1,5 @@
 First table to see behaviour:
 
 [first table](https://docs.google.com/spreadsheets/d/1kC8EWrE4iTnbTSd9jXeSwo6EUYKOE_TSnlKBiorYWGM/edit#gid=0)
+[FirstExampleSplit.pdf](https://github.com/alexandrudaia/kineticTrees/files/195687/FirstExampleSplit.pdf)
+
